@@ -3,21 +3,12 @@
 
 "HOMEURL" : "https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html",
  
- // testing server json yang dipakai
 "Json_popup_Wait" : "Server Ready . . . v19j13",
 
 
 "MODE_NO_ADS" : true,
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
 
-
-// mode pengaturan iklan
-// Mode ADMOB       Admob backup Unity Backup Startapp
-// Mode FAN         FAN backup Unity Backup Startapp
-// Mode APPODEAL    Appodeal backup Unity Backup Startapp
-// Mode UNITY       Unity backup Startapp
-// Mode APPLOVIN    Applovin backup Unity Backup Startapp
- // native hanya bisa admob fan appodeal
 "PENGATURAN_IKLAN_banner" : "UNITY",
 "PENGATURAN_IKLAN_inter" : "UNITY",
 "PENGATURAN_IKLAN_native" : "FAN",
